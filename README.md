@@ -1,1 +1,1 @@
-## This repo contains exercises on Binary Trees operation
+## This repo contains exercises on Binary Trees operations
